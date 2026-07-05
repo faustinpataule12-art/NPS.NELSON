@@ -1,12 +1,7 @@
 {
-  "splash_media": [
-    {
-      "type": "video",
-      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289046482-0.mp4"
-    }
-  ],
+  "splash_media": [],
   "help_message": "",
   "help_link": "",
   "help_images": [],
-  "updated_at": "2026-07-05T22:04:22.542Z"
+  "updated_at": "2026-07-05T22:06:24.689Z"
 }
