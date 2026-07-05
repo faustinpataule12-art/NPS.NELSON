@@ -1,7 +1,36 @@
 {
-  "splash_media": [],
+  "splash_media": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-3.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-4.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-5.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-6.png"
+    }
+  ],
   "help_message": "",
   "help_link": "",
   "help_images": [],
-  "updated_at": "2026-07-05T22:07:17.323Z"
+  "updated_at": "2026-07-05T22:10:12.117Z"
 }
