@@ -22,15 +22,12 @@
     },
     {
       "type": "image",
-      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-5.png"
-    },
-    {
-      "type": "image",
       "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1783289392809-6.png"
     }
   ],
   "help_message": "",
   "help_link": "",
   "help_images": [],
-  "updated_at": "2026-07-05T22:10:12.117Z"
+  "updated_at": "2026-07-06T01:14:04.672Z",
+  "links": {}
 }
