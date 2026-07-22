@@ -1,7 +1,24 @@
 {
-  "splash_media": [],
+  "splash_media": [
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1784716548521-0.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1784716548521-1.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1784716548521-2.png"
+    },
+    {
+      "type": "image",
+      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1784716548521-3.png"
+    }
+  ],
   "help_message": "",
-  "help_link": "https://whatsapp.com/channel/0029VbCuah30gcfNKZjZtP05",
+  "help_link": "",
   "help_images": [],
-  "updated_at": "2026-07-22T10:34:18.392Z"
+  "updated_at": "2026-07-22T10:35:58.709Z"
 }
