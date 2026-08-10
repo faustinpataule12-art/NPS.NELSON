@@ -1,12 +1,7 @@
 {
   "splash_media": [],
-  "help_message": "Mise à jour disponible !\nLa nouvelle version de l'application vient d'arriver. Mettez à jour dès maintenant pour profiter des dernières optimisations.",
+  "help_message": "https://github.com/faustinpataule12-art/pwa-apk/releases/download/build-1/app-debug.apk",
   "help_link": "",
-  "help_images": [
-    "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/aide-1786154951977-0.png",
-    "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/aide-1786154951977-1.png",
-    "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/aide-1786154951977-2.png",
-    "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/aide-1786154951977-3.png"
-  ],
-  "updated_at": "2026-08-10T01:25:16.715Z"
+  "help_images": [],
+  "updated_at": "2026-08-10T01:25:34.865Z"
 }
