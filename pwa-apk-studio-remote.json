@@ -1,13 +1,8 @@
 {
-  "splash_media": [
-    {
-      "type": "image",
-      "url": "https://raw.githubusercontent.com/faustinpataule12-art/NPS.NELSON/main/media/splash-1790448055200-0.png"
-    }
-  ],
-  "help_message": "https://github.com/faustinpataule12-art/pwa-apk/releases/download/build-1/app-debug.apk",
+  "splash_media": [],
+  "help_message": "",
   "help_link": "",
   "help_images": [],
   "links": {},
-  "updated_at": "2026-09-26T18:40:58.215Z"
+  "updated_at": "2026-09-26T20:32:36.722Z"
 }
